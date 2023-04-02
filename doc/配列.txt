@@ -1,0 +1,4 @@
+["Esc","Q\n1\n\n\n\n\n\n\n\n^","W\n2\n\n\n\n\n\n\n\n-","E\n3\n\n\n\n\n\n\n\n|","R\n4\n\n\n\n\n\n\n\n\\","T\n5\n\n\n\n\n\n\n\n<","Y\n6\n\n\n\n\n\n\n\n>","U\n7\n\n\n\n\n\n\n\n{","I\n8\n\n\n\n\n\n\n\n}","O\n9\n\n\n\n\n\n\n\n,","P\n0\n\n\n\n\n\n\n\n.","Back<br>Space"],
+[{w:1.25},"Tab","A\n@\n\n\n\n\n\n\n\n&","S\n#\n\n\n\n\n\n\n\n¥","D\n$\n\n\n\n\n\n\n\n€","F\n/\n\n\n\n\n\n\n\n*","G\n(\n\n\n\n\n\n\n\n【","H\n)\n\n\n\n\n\n\n\n】","J\n\"\n\n\n\n\n\n\n\n「","K\n\"\n\n\n\n\n\n\n\n」","L\n'\n\n\n\n\n\n\n\n•",{w:1.75},"Enter"],
+[{w:1.75},"Shift","Z\n%\n\n\n\n\n\n\n\n^_^","X\n-\n\n\n\n\n\n\n\n—","C\n~\n\n\n\n\n\n\n\n+","V\n...\n\n\n\n\n\n\n\n=","B\n、\n\n\n\n\n\n\n\n·","N\n；\n\n\n\n\n\n\n\n《","M\n：\n\n\n\n\n\n\n\n》","！\n，","？\n。",{w:1.25},"Shift"],
+[{w:1.25},"Ctrl","Fn","Alt",{a:7,w:6.25},"",{a:4,w:1.25},"Switch",{w:1.25},"Symbol"]
